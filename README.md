@@ -54,7 +54,7 @@ mysql+pymysql://<username>:<password>@localhost:3306/united_nations
 Replace `<username>` and `<password>` with your actual MySQL credentials.
 
 ---
-## Happy querying! 🧠💻
+## 🧠💻 Happy querying! 
 ExploreAI Academy – Learn by doing.
 
 Adopted by Ibrahim Ambale
