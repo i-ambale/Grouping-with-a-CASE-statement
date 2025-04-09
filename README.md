@@ -4,7 +4,7 @@
 This notebook demonstrates how to categorize and group data using SQL's `CASE` statement in combination with aggregate functions. It is designed for learners aiming to improve their SQL querying skills using practical, real-world datasets.
 ---
 ## 🚧 Important Notice
-⚠️ **This notebook will not run on Google Colab** because Colab cannot connect to a local database.
+⚠️ This notebook will not run on Google Colab** because Colab cannot connect to a local database.
 Please ensure that the notebook is running on the **same local machine** where both **MySQL Workbench** and the `united_nations` **database** are installed.
 ---
 ## 🎯 Learning Objectives
