@@ -18,8 +18,8 @@ By the end of this notebook, you should be able to:
 ---
 
 ## 🗄️ Dataset Description
-We’ll be working with the `Access_to_Basic_Services` table from a MySQL database named `united_nations`.
-This table includes country-level indicators on access to managed drinking water services.
+**We’ll be working with the `Access_to_Basic_Services` table from a MySQL database named `united_nations`.
+This table includes country-level indicators on access to managed drinking water services.**
 ---
 
 ## 🛠️ Setup and Requirements
