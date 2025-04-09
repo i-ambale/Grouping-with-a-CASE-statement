@@ -1,16 +1,17 @@
 # 📊 Grouping with a CASE Statement
 © ExploreAI Academy
 
-This notebook demonstrates how to categorize and group data using SQL's `CASE` statement in combination with aggregate functions. It is designed for learners aiming to improve their SQL querying skills using practical, real-world datasets.
+This notebook demonstrates how to categorize and group data using SQL's CASE statement in combination with aggregate functions. It is designed for learners aiming to improve their SQL querying skills using practical, real-world datasets.
 ---
 ## 🚧 Important Notice
-⚠️*This notebook will not run on Google Colab because Colab cannot connect to a local database.
-Please ensure that the notebook is running on the same local machine where both MySQL Workbench and the `united_nations` database are installed.*
+⚠️ This notebook will not run on Google Colab because Colab cannot connect to a local database.
+Please ensure that the notebook runs on the same local machine where both MySQL Workbench and the `united_nations` database are installed.
+
 ---
 ## 🎯 Learning Objectives
 By the end of this notebook, you should be able to:
 
-- ✅ Use `CASE` statements to categorise data based on specific conditions.
+- ✅ Use `CASE` statements to categorize data based on specific conditions.
 
 - ✅ Combine `CASE` statements with aggregate functions (`MIN`, `MAX`, `AVG`, etc.) for summarised insights.
 
@@ -18,8 +19,10 @@ By the end of this notebook, you should be able to:
 ---
 
 ## 🗄️ Dataset Description
-**We’ll be working with the `Access_to_Basic_Services` table from a MySQL database named `united_nations`.
-This table includes country-level indicators on access to managed drinking water services.**
+We’ll be working with the `Access_to_Basic_Services` table from a MySQL database named `united_nations`.
+
+This table includes country-level indicators on access to managed drinking water services.
+
 ---
 
 ## 🛠️ Setup and Requirements
