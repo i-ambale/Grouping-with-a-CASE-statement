@@ -2,6 +2,7 @@
 © ExploreAI Academy
 
 This notebook demonstrates how to categorize and group data using SQL's CASE statement in combination with aggregate functions. It is designed for learners aiming to improve their SQL querying skills using practical, real-world datasets.
+
 ---
 ## 🚧 Important Notice
 ⚠️ This notebook will not run on Google Colab because Colab cannot connect to a local database.
@@ -51,6 +52,7 @@ The notebook uses the following connection string format to connect to the local
 mysql+pymysql://<username>:<password>@localhost:3306/united_nations
 ```
 Replace `<username>` and `<password>` with your actual MySQL credentials.
+
 ---
 ## Happy querying! 🧠💻
 ExploreAI Academy – Learn by doing.
