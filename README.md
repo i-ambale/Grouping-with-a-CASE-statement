@@ -16,10 +16,12 @@ By the end of this notebook, you should be able to:
 
 - ✅ Apply `GROUP BY` with `CASE` to group data meaningfully.
 ---
+
 ## 🗄️ Dataset Description
 We’ll be working with the `Access_to_Basic_Services` table from a MySQL database named `united_nations`.
 This table includes country-level indicators on access to managed drinking water services.
 ---
+
 ## 🛠️ Setup and Requirements
 To run this notebook:
 
